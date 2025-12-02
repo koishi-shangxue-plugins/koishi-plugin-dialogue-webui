@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-dialogue-webui",
   "description": "也许是dialogue插件的webui版本（？）灵感来自 word-core 插件",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
@@ -22,9 +22,9 @@
     "BSTluo <1946831552@qq.com>",
     "shangxueink <1919892171@qq.com>"
   ],
-  "homepage": "https://github.com/koishi-shangxue-plugins/koishi-shangxue-apps/tree/main/",
+  "homepage": "https://github.com/koishi-shangxue-plugins/koishi-plugin-dialogue-webui",
   "bugs": {
-    "url": "https://github.com/koishi-shangxue-plugins/koishi-shangxue-apps/issues"
+    "url": "https://github.com/koishi-shangxue-plugins/koishi-plugin-dialogue-webui/issues"
   },
   "koishi": {
     "service": {
