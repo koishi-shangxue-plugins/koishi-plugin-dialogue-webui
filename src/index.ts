@@ -23,7 +23,7 @@ declare module 'koishi' {
   }
 }
 
-declare module '@koishijs/console' {
+declare module '@koishijs/plugin-console' {
   interface Events {
     'webdialogue/list'(): Promise<Dialogue[]>
     'webdialogue/create'(dialogue: Dialogue): Promise<{ success: boolean; message?: string }>
